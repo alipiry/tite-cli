@@ -1,0 +1,2 @@
+# tite
+(time + date) getter

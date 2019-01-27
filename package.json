@@ -1,5 +1,5 @@
 {
-  "name": "tite",
+  "name": "@alipiry/tite",
   "version": "1.0.0",
   "description": "Time & Date getter",
   "main": "./lib/index.js",

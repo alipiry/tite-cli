@@ -1,8 +1,8 @@
 #!/usr/bin/env node
 
 import { options } from './program';
-import { time } from './time';
+import { getTite } from './tite';
 
-// options();
+if (!process.argv.slice(2).length) getTite();
 
-time();
+options();

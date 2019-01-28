@@ -30,7 +30,7 @@ const gregorianDate: string = `${gregorianWeekDay}, ${gregorianDay} ${gregorianM
 export function getTite(): void {
 	console.log(chalk.bold.red('Time:', nowTime));
 	console.log(chalk.bold.cyan('Jalali Date:',jalaliDate));
-	console.log(chalk.bold.magenta('Gregorian Data:', gregorianDate));
+	console.log(chalk.bold.magenta('Gregorian Date:', gregorianDate));
 }
 
 export function getYear(): string {

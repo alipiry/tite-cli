@@ -1,6 +1,6 @@
 # [Tite](https://github.com/alipiry/tite)
 Tite(time + date) is a nodeJS CLI app that tells you Time & Date information.
-[Tite](https://github.com/alipiry/tite) shows you both `Jalali` & `Gregorian` date information.
+[Tite](https://github.com/alipiry/tite) shows you both `Jalali` & `Gregorian` date information alongside time info.
 
 ## Development Technologies
 
@@ -35,7 +35,7 @@ Install package:
 
 ## Usage
 
-Simply run ```tite``` to get time and date information:
+Simply run `tite` to get time and date information:
 ```bash
   > tite
 ```

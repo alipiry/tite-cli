@@ -1,6 +1,6 @@
 {
   "name": "@alipiry/tite",
-  "version": "1.3.4",
+  "version": "1.3.5",
   "description": "NodeJS CLI Time & Date getter",
   "main": "./lib/index.js",
   "bin": {

@@ -1,6 +1,8 @@
+#!/usr/bin/env node
+
 import program from 'commander';
 
-export default function options() {
+export function options() {
 	program
 		.version('1.1.0')
 		.description('Time & Date getter')
@@ -8,4 +10,8 @@ export default function options() {
 		.option('-m, --month', 'Show month')
 		.option('-d, --day', 'Show day')
 		.parse(process.argv);
+
+	if (!process.argv.slice(2).length) {
+			program.outputHelp();
+	}
 }

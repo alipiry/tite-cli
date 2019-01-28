@@ -1,2 +1,2 @@
 #!/usr/bin/env node
-export default function options(): void;
+export declare function options(): void;

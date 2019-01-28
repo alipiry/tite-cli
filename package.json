@@ -1,18 +1,30 @@
 {
   "name": "@alipiry/tite",
-  "version": "1.3.1",
-  "description": "Time & Date getter",
+  "version": "1.3.2",
+  "description": "NodeJS CLI Time & Date getter",
   "main": "./lib/index.js",
   "bin": {
     "tite": "./lib/index.js"
   },
-  "repository": "git@github.com:alipiry/tite.git",
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/alipiry/tite.git"
+	},
+	"keywords": [
+		"tite",
+		"time",
+		"date",
+		"typescript",
+		"javascript",
+		"nodejs"
+	],
   "author": "Ali Piry <alipiry@icloud.com>",
   "license": "MIT",
   "scripts": {
-    "dev": "nodemon --watch 'src/**/*.ts' --exec 'ts-node' src/index.ts",
+    "dev": "ts-node src/index.ts",
     "build": "tsc -p ."
   },
+	"homepage": "https://github.com/alipiry/tite#readme",
   "dependencies": {
     "chalk": "^2.4.2",
     "commander": "^2.19.0",
@@ -21,7 +33,6 @@
   "devDependencies": {
     "@types/jalaali-js": "^1.1.0",
     "@types/node": "^10.12.18",
-    "nodemon": "^1.18.9",
     "ts-node": "^8.0.2",
     "typescript": "^3.2.4"
   }

@@ -14,13 +14,13 @@
     "build": "tsc -p ."
   },
   "dependencies": {
-    "@types/jalaali-js": "^1.1.0",
     "chalk": "^2.4.2",
     "commander": "^2.19.0",
     "jalaali-js": "^1.1.0"
   },
   "devDependencies": {
     "@types/node": "^10.12.18",
+    "@types/jalaali-js": "^1.1.0",
     "nodemon": "^1.18.9",
     "ts-node": "^8.0.2",
     "typescript": "^3.2.4"

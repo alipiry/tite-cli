@@ -12,7 +12,7 @@ import chalk from 'chalk';
 
 export function options(): void {
 	program
-		.version('1.3.4')
+		.version('1.3.5')
 		.description('Time & Date getter')
 		.option('-y, --year', 'Show year')
 		.option('-m, --month', 'Show month')

@@ -59,3 +59,27 @@ You can use following command to see `tite` options:
 `-w, --weekday`: Shows the week day of current date
 
 `-t, --time`: Shows current time
+
+## Development 
+
+Clone the project:
+```bash
+  > git clone git@github.com:alipiry/tite.git
+```
+
+Install dependencies and dev depedencies:
+```bash
+  > cd tite/
+  > yarn
+```
+### Running
+
+```bash
+  > yarn dev
+```
+
+## Production
+
+```bash
+  > yarn build
+```

@@ -78,7 +78,7 @@ Install dependencies and dev depedencies:
   > yarn dev
 ```
 
-## Production
+### Production
 
 ```bash
   > yarn build

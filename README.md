@@ -31,7 +31,7 @@ Linux:
 
 Install package:
 ```bash
-  > yarn add global @alipiry/tite
+  > yarn global add @alipiry/tite
 ```
 
 ## Usage

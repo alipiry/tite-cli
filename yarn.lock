@@ -2,10 +2,10 @@
 # yarn lockfile v1
 
 
-"@types/figlet@^1.2.0":
-  version "1.2.0"
-  resolved "https://registry.yarnpkg.com/@types/figlet/-/figlet-1.2.0.tgz#2dab76da069dc8ce5dcab461f7f2788317fb01a8"
-  integrity sha512-TDZkNpYfkc3X8yv7w1QBziZmmxzNfGKX+YjeNkMpmSiNV0QOdNf9G5cEZB3FH1/oaqpSQEdxuDzURdju2L3lng==
+"@types/jalaali-js@^1.1.0":
+  version "1.1.0"
+  resolved "https://registry.yarnpkg.com/@types/jalaali-js/-/jalaali-js-1.1.0.tgz#ef3b111bcf202d134fd9e2fd18103f7dbe22af2e"
+  integrity sha1-7zsRG88gLRNP2eL9GBA/fb4iry4=
 
 "@types/node@^10.12.18":
   version "10.12.18"
@@ -467,11 +467,6 @@ extglob@^2.0.4:
     snapdragon "^0.8.1"
     to-regex "^3.0.1"
 
-figlet@^1.2.1:
-  version "1.2.1"
-  resolved "https://registry.yarnpkg.com/figlet/-/figlet-1.2.1.tgz#48d35df9d9b10b1b3888302e6e57904a0b00509c"
-  integrity sha512-qc8gycfnnfOmfvPl7Fi3JeTbcvdmbZkckyUVGGAM02je7Ookvu+bBfKy1I4FKqTsQHCs3ARJ76ip/k98r+OQuQ==
-
 fill-range@^4.0.0:
   version "4.0.0"
   resolved "https://registry.yarnpkg.com/fill-range/-/fill-range-4.0.0.tgz#d544811d428f98eb06a63dc402d2403c328c38f7"
@@ -863,6 +858,11 @@ isobject@^3.0.0, isobject@^3.0.1:
   version "3.0.1"
   resolved "https://registry.yarnpkg.com/isobject/-/isobject-3.0.1.tgz#4e431e92b11a9731636aa1f9c8d1ccbcfdab78df"
   integrity sha1-TkMekrEalzFjaqH5yNHMvP2reN8=
+
+jalaali-js@^1.1.0:
+  version "1.1.0"
+  resolved "https://registry.yarnpkg.com/jalaali-js/-/jalaali-js-1.1.0.tgz#f0e942049273d11f7298a992356fc36ce2784863"
+  integrity sha512-eznOFGRtHb0ttHkHf8pVYPVfKJdbOqutTwcQYACbv91Q2NiYgnM5Z6+NN/8FMAhuMDAXAmeAG9+UBzqVKdA4cg==
 
 kind-of@^3.0.2, kind-of@^3.0.3, kind-of@^3.2.0:
   version "3.2.2"

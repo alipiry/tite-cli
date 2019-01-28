@@ -39,5 +39,16 @@ Simply run `tite` to get time and date information:
 ```bash
   > tite
 ```
+You can use following command to see `tite` options:
+```bash
+  > tite -h
+```
+### Available options
+
+`-y, --year`: Shows the year of current date
+`-m, --month`: Shows the month of current date
+`-d, --day`: Shows the day of current date
+`-w, --weekday`: Shows the week day of current date
+`-t, --time`: Shows current time
 
 

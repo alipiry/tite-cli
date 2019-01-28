@@ -1,15 +1,8 @@
 #!/usr/bin/env node
 
-import chalk from 'chalk';
-import figlet from 'figlet';
+import { options } from './program';
+import { time } from './time';
 
-const log = console.log;
+// options();
 
-log(
-	chalk.magenta.bold(
-		figlet.textSync(
-			'Tite: Time + Date',
-			{ horizontalLayout : 'full' }
-		)
-	)
-)
+time();

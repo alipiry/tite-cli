@@ -83,3 +83,11 @@ Install dependencies and dev depedencies:
 ```bash
   > yarn build
 ```
+
+## Author
+
+[Ali Piry](https://github.com/alipiry)
+
+## LICENSE
+
+Tite is MIT-licensed.

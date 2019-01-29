@@ -9,10 +9,11 @@ import {
 	getTime
 } from './tite';
 import chalk from 'chalk';
+const pkg = require('../package.json');
 
 export function options(): void {
 	program
-		.version('1.3.5')
+		.version(pkg.version)
 		.description('Time & Date getter')
 		.option('-y, --year', 'Show year')
 		.option('-m, --month', 'Show month')

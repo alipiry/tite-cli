@@ -1,30 +1,30 @@
 {
   "name": "@alipiry/tite",
-  "version": "1.3.5",
+  "version": "1.3.6",
   "description": "NodeJS CLI Time & Date getter",
   "main": "./lib/index.js",
   "bin": {
     "tite": "./lib/index.js"
   },
-	"repository": {
-		"type": "git",
-		"url": "git+https://github.com/alipiry/tite.git"
-	},
-	"keywords": [
-		"tite",
-		"time",
-		"date",
-		"typescript",
-		"javascript",
-		"nodejs"
-	],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alipiry/tite.git"
+  },
+  "keywords": [
+    "tite",
+    "time",
+    "date",
+    "typescript",
+    "javascript",
+    "nodejs"
+  ],
   "author": "Ali Piry <alipiry@icloud.com>",
   "license": "MIT",
   "scripts": {
     "dev": "ts-node src/index.ts",
     "build": "tsc -p ."
   },
-	"homepage": "https://github.com/alipiry/tite#readme",
+  "homepage": "https://github.com/alipiry/tite#readme",
   "dependencies": {
     "chalk": "^2.4.2",
     "commander": "^2.19.0",

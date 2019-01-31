@@ -1,5 +1,3 @@
-#!/usr/bin/env node
-
 export const gregorianMonths: Array<string> = [
 	"January", 
 	"February", 

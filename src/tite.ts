@@ -1,5 +1,3 @@
-#!/usr/bin/env node
-
 import jalali from 'jalaali-js';
 import * as consts from './consts';
 import chalk from 'chalk';

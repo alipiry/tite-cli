@@ -1,4 +1,3 @@
-#!/usr/bin/env node
 export declare function getTite(): void;
 export declare function getYear(): string;
 export declare function getMonth(): string;

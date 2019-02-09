@@ -1,5 +1,5 @@
 {
-  "name": "@alipiry/tite",
+  "name": "@alipiry/tite-cli",
   "version": "1.4.1",
   "description": "NodeJS CLI Time & Date getter",
   "main": "./lib/index.js",
@@ -8,10 +8,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/alipiry/tite.git"
+    "url": "git+https://github.com/alipiry/tite-cli.git"
   },
   "keywords": [
-    "tite",
+    "tite-cli",
     "time",
     "date",
     "typescript",
@@ -24,7 +24,7 @@
     "dev": "ts-node src/index.ts",
     "build": "tsc -p ."
   },
-  "homepage": "https://github.com/alipiry/tite#readme",
+  "homepage": "https://github.com/alipiry/tite-cli#readme",
   "dependencies": {
     "chalk": "^2.4.2",
     "commander": "^2.19.0",

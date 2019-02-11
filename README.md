@@ -5,7 +5,7 @@ Tite(time + date) is a nodeJS CLI app that tells you Time & Date information.
 
 ## Demo
 
-[![asciicast](https://asciinema.org/a/224072.svg)](https://asciinema.org/a/224072)
+[![asciicast](https://asciinema.org/a/226655.svg)](https://asciinema.org/a/226655)
 
 ## Development Technologies
 

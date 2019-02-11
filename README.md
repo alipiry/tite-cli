@@ -64,10 +64,10 @@ You can use following command to see `tite` options:
 
 Clone the project:
 ```bash
-  > git clone git@github.com:alipiry/tite.git
+  > git clone git@github.com:alipiry/tite-cli.git
 ```
 
-Install dependencies and dev depedencies:
+Install dependencies and dev dependencies:
 ```bash
   > cd tite-cli/
   > yarn

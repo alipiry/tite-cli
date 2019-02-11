@@ -22,18 +22,20 @@
   "license": "MIT",
   "scripts": {
     "dev": "ts-node src/index.ts",
-    "build": "tsc -p ."
+    "build": "tsc -p .",
+    "pub": "yarn build && yarn publish --access=public"
   },
   "homepage": "https://github.com/alipiry/tite-cli#readme",
   "dependencies": {
+    "@alipiry/tite-api": "^1.0.3",
     "chalk": "^2.4.2",
-    "commander": "^2.19.0",
-    "jalaali-js": "^1.1.0"
+    "commander": "^2.19.0"
   },
   "devDependencies": {
-    "@types/jalaali-js": "^1.1.0",
     "@types/node": "^10.12.18",
     "ts-node": "^8.0.2",
+    "tslint": "^5.12.1",
+    "tslint-config-standard": "^8.0.1",
     "typescript": "^3.2.4"
   }
 }

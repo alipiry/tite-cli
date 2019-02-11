@@ -2,17 +2,12 @@
 # yarn lockfile v1
 
 
-"@alipiry/tite-api@^1.0.3":
-  version "1.0.3"
-  resolved "https://registry.yarnpkg.com/@alipiry/tite-api/-/tite-api-1.0.3.tgz#0e0a1556703b81b1fe499a0dbebb9ff7350d904d"
-  integrity sha512-WwSOI92iI9mzMKdFLwVC/a+qRictkVacRnQmxe9/fUw8EZinxnzzYsa2c0MXWOB25aT4+6JTo0FR2jYWBGOQzw==
+"@alipiry/tite-api@^1.0.4":
+  version "1.0.4"
+  resolved "https://registry.yarnpkg.com/@alipiry/tite-api/-/tite-api-1.0.4.tgz#db1b36519b2531ca8eb90a679b0c717a782e7b6d"
+  integrity sha512-FAaN2AjmpK2dDyOgWX19JFsHtjLhtZW8v1w02RwZ8kB9D/VKn07P8J7eNibAPc9AKqQ1bdAXJPFS8x7lO73OiA==
   dependencies:
     jalaali-js "^1.1.0"
-
-"@types/jalaali-js@^1.1.0":
-  version "1.1.0"
-  resolved "https://registry.yarnpkg.com/@types/jalaali-js/-/jalaali-js-1.1.0.tgz#ef3b111bcf202d134fd9e2fd18103f7dbe22af2e"
-  integrity sha1-7zsRG88gLRNP2eL9GBA/fb4iry4=
 
 "@types/node@^10.12.18":
   version "10.12.18"

@@ -1,21 +1,19 @@
-# [Tite](https://github.com/alipiry/tite-cli)
+# Tite
 Tite(time + date) is a nodeJS CLI app that tells you Time & Date information.
 
-[Tite](https://github.com/alipiry/tite-cli) shows you both `Jalali` & `Gregorian` date information alongside time info.
+Tite shows you both `Jalali` & `Gregorian` date information alongside time info.
 
 ## Demo
-
 [![asciicast](https://asciinema.org/a/226655.svg)](https://asciinema.org/a/226655)
 
 ## Development Technologies
-
 ```bash
   typescript
   javascript
   nodeJS
 ```
-## Requirements
 
+## Requirements
 To use this package, make sure you have `yarn` installed on your machine:
 
 macOS:
@@ -32,24 +30,23 @@ Linux:
 ```
 
 ## Installation
-
 Install package:
 ```bash
   > yarn global add @alipiry/tite-cli
 ```
 
 ## Usage
-
 Simply run `tite` to get time and date information:
 ```bash
   > tite
 ```
+
 You can use following command to see `tite` options:
 ```bash
   > tite -h
 ```
-### Available options
 
+### Available options
 `-y, --year`: Shows the year of current date
 
 `-m, --month`: Shows the month of current date
@@ -61,7 +58,6 @@ You can use following command to see `tite` options:
 `-t, --time`: Shows current time
 
 ## Development 
-
 Clone the project:
 ```bash
   > git clone git@github.com:alipiry/tite-cli.git
@@ -73,21 +69,21 @@ Install dependencies and dev dependencies:
   > yarn
 ```
 ### Running
-
 ```bash
   > yarn dev
 ```
 
 ### Production
-
 ```bash
   > yarn build
 ```
 
 ## Author
-
 [Ali Piry](https://github.com/alipiry)
 
 ## LICENSE
-
 Tite is MIT-licensed.
+
+### Support
+If you enjoy using this tool, please consider buying me a coffee. :grin:
+<a href="https://www.buymeacoffee.com/alipiry" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/yellow_img.png" alt="Buy Me A Coffee" style="height: auto !important;width: auto !important;" ></a>

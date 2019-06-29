@@ -87,4 +87,24 @@ Tite is MIT-licensed.
 ## Support
 If you enjoy using this tool, please consider buying me a coffee. :grin:
 
-<a href="https://blockchain.com/btc/payment_request?address=1FNxb5Lk4j3Q17YDVop6xTtZsp8UeDjySA&amount=0.00041731&message=$5 Coffee for supporting Ali Piry" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/yellow_img.png" alt="Buy Me A Coffee" style="height: auto !important;width: auto !important;" ></a>
+
+<div style="font-size:16px;margin:0 auto;width:300px" class="blockchain-btn"
+     data-address="1FNxb5Lk4j3Q17YDVop6xTtZsp8UeDjySA"
+     data-shared="false">
+    <div class="blockchain stage-begin">
+        <img src="https://blockchain.info/Resources/buttons/donate_64.png"/>
+    </div>
+    <div class="blockchain stage-loading" style="text-align:center">
+        <img src="https://blockchain.info/Resources/loading-large.gif"/>
+    </div>
+    <div class="blockchain stage-ready">
+         <p align="center">Please Donate To Bitcoin Address: <b>[[address]]</b></p>
+         <p align="center" class="qr-code"></p>
+    </div>
+    <div class="blockchain stage-paid">
+         Donation of <b>[[value]] BTC</b> Received. Thank You.
+    </div>
+    <div class="blockchain stage-error">
+        <font color="red">[[error]]</font>
+    </div>
+</div>

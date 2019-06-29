@@ -87,4 +87,4 @@ Tite is MIT-licensed.
 ## Support
 If you enjoy using this tool, please consider buying me a coffee. :grin:
 
-<a href="https://blockchain.com/btc/payment_request?address=1FNxb5Lk4j3Q17YDVop6xTtZsp8UeDjySA&amount=0.00041731&message=$5 Coffee for supporting Ali Piry" target="_blank"><img src="https://blockchain.info/Resources/buttons/donate_64.png" alt="Buy Me A Coffee" style="height: auto !important;width: auto !important;" ></a>
+<a href="https://blockchain.com/btc/payment_request?address=1FNxb5Lk4j3Q17YDVop6xTtZsp8UeDjySA&amount=0.00041731&message=$5 Coffee for supporting Ali Piry" target="_blank"><img src="https://blockchain.info/Resources/buttons/donate_64.png" alt="Buy Me A Coffee" style="height: auto !important;width: auto !important;" /></a>
